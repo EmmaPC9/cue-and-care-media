@@ -1,0 +1,566 @@
+{
+ "p13-peek": {
+  "kind": "pin",
+  "file": "pins/p13-peek.png",
+  "src": "page13",
+  "variant": "peek"
+ },
+ "p13-facts": {
+  "kind": "pin",
+  "file": "pins/p13-facts.png",
+  "src": "page13",
+  "variant": "facts"
+ },
+ "r13-flip": {
+  "kind": "reel",
+  "file": "reels/r13-flip.mp4",
+  "src": "page13",
+  "variant": "flip"
+ },
+ "q4-quiz": {
+  "kind": "reel",
+  "file": "reels/q4-quiz.mp4",
+  "src": "q4",
+  "variant": "quiz"
+ },
+ "p03-peek": {
+  "kind": "pin",
+  "file": "pins/p03-peek.png",
+  "src": "page3",
+  "variant": "peek"
+ },
+ "p03-facts": {
+  "kind": "pin",
+  "file": "pins/p03-facts.png",
+  "src": "page3",
+  "variant": "facts"
+ },
+ "r03-flip": {
+  "kind": "reel",
+  "file": "reels/r03-flip.mp4",
+  "src": "page3",
+  "variant": "flip"
+ },
+ "p04-peek": {
+  "kind": "pin",
+  "file": "pins/p04-peek.png",
+  "src": "page4",
+  "variant": "peek"
+ },
+ "p04-facts": {
+  "kind": "pin",
+  "file": "pins/p04-facts.png",
+  "src": "page4",
+  "variant": "facts"
+ },
+ "r04-flip": {
+  "kind": "reel",
+  "file": "reels/r04-flip.mp4",
+  "src": "page4",
+  "variant": "flip"
+ },
+ "p05-peek": {
+  "kind": "pin",
+  "file": "pins/p05-peek.png",
+  "src": "page5",
+  "variant": "peek"
+ },
+ "p05-facts": {
+  "kind": "pin",
+  "file": "pins/p05-facts.png",
+  "src": "page5",
+  "variant": "facts"
+ },
+ "r05-flip": {
+  "kind": "reel",
+  "file": "reels/r05-flip.mp4",
+  "src": "page5",
+  "variant": "flip"
+ },
+ "p06-peek": {
+  "kind": "pin",
+  "file": "pins/p06-peek.png",
+  "src": "page6",
+  "variant": "peek"
+ },
+ "p06-facts": {
+  "kind": "pin",
+  "file": "pins/p06-facts.png",
+  "src": "page6",
+  "variant": "facts"
+ },
+ "r06-flip": {
+  "kind": "reel",
+  "file": "reels/r06-flip.mp4",
+  "src": "page6",
+  "variant": "flip"
+ },
+ "p07-peek": {
+  "kind": "pin",
+  "file": "pins/p07-peek.png",
+  "src": "page7",
+  "variant": "peek"
+ },
+ "p07-facts": {
+  "kind": "pin",
+  "file": "pins/p07-facts.png",
+  "src": "page7",
+  "variant": "facts"
+ },
+ "r07-flip": {
+  "kind": "reel",
+  "file": "reels/r07-flip.mp4",
+  "src": "page7",
+  "variant": "flip"
+ },
+ "p08-peek": {
+  "kind": "pin",
+  "file": "pins/p08-peek.png",
+  "src": "page8",
+  "variant": "peek"
+ },
+ "p08-facts": {
+  "kind": "pin",
+  "file": "pins/p08-facts.png",
+  "src": "page8",
+  "variant": "facts"
+ },
+ "r08-flip": {
+  "kind": "reel",
+  "file": "reels/r08-flip.mp4",
+  "src": "page8",
+  "variant": "flip"
+ },
+ "p09-peek": {
+  "kind": "pin",
+  "file": "pins/p09-peek.png",
+  "src": "page9",
+  "variant": "peek"
+ },
+ "p09-facts": {
+  "kind": "pin",
+  "file": "pins/p09-facts.png",
+  "src": "page9",
+  "variant": "facts"
+ },
+ "r09-flip": {
+  "kind": "reel",
+  "file": "reels/r09-flip.mp4",
+  "src": "page9",
+  "variant": "flip"
+ },
+ "p10-peek": {
+  "kind": "pin",
+  "file": "pins/p10-peek.png",
+  "src": "page10",
+  "variant": "peek"
+ },
+ "p10-facts": {
+  "kind": "pin",
+  "file": "pins/p10-facts.png",
+  "src": "page10",
+  "variant": "facts"
+ },
+ "r10-flip": {
+  "kind": "reel",
+  "file": "reels/r10-flip.mp4",
+  "src": "page10",
+  "variant": "flip"
+ },
+ "p11-peek": {
+  "kind": "pin",
+  "file": "pins/p11-peek.png",
+  "src": "page11",
+  "variant": "peek"
+ },
+ "p11-facts": {
+  "kind": "pin",
+  "file": "pins/p11-facts.png",
+  "src": "page11",
+  "variant": "facts"
+ },
+ "r11-flip": {
+  "kind": "reel",
+  "file": "reels/r11-flip.mp4",
+  "src": "page11",
+  "variant": "flip"
+ },
+ "p12-peek": {
+  "kind": "pin",
+  "file": "pins/p12-peek.png",
+  "src": "page12",
+  "variant": "peek"
+ },
+ "p12-facts": {
+  "kind": "pin",
+  "file": "pins/p12-facts.png",
+  "src": "page12",
+  "variant": "facts"
+ },
+ "r12-flip": {
+  "kind": "reel",
+  "file": "reels/r12-flip.mp4",
+  "src": "page12",
+  "variant": "flip"
+ },
+ "p14-peek": {
+  "kind": "pin",
+  "file": "pins/p14-peek.png",
+  "src": "page14",
+  "variant": "peek"
+ },
+ "p14-facts": {
+  "kind": "pin",
+  "file": "pins/p14-facts.png",
+  "src": "page14",
+  "variant": "facts"
+ },
+ "r14-flip": {
+  "kind": "reel",
+  "file": "reels/r14-flip.mp4",
+  "src": "page14",
+  "variant": "flip"
+ },
+ "p15-peek": {
+  "kind": "pin",
+  "file": "pins/p15-peek.png",
+  "src": "page15",
+  "variant": "peek"
+ },
+ "p15-facts": {
+  "kind": "pin",
+  "file": "pins/p15-facts.png",
+  "src": "page15",
+  "variant": "facts"
+ },
+ "r15-flip": {
+  "kind": "reel",
+  "file": "reels/r15-flip.mp4",
+  "src": "page15",
+  "variant": "flip"
+ },
+ "p16-peek": {
+  "kind": "pin",
+  "file": "pins/p16-peek.png",
+  "src": "page16",
+  "variant": "peek"
+ },
+ "p16-facts": {
+  "kind": "pin",
+  "file": "pins/p16-facts.png",
+  "src": "page16",
+  "variant": "facts"
+ },
+ "r16-flip": {
+  "kind": "reel",
+  "file": "reels/r16-flip.mp4",
+  "src": "page16",
+  "variant": "flip"
+ },
+ "p17-peek": {
+  "kind": "pin",
+  "file": "pins/p17-peek.png",
+  "src": "page17",
+  "variant": "peek"
+ },
+ "p17-facts": {
+  "kind": "pin",
+  "file": "pins/p17-facts.png",
+  "src": "page17",
+  "variant": "facts"
+ },
+ "r17-flip": {
+  "kind": "reel",
+  "file": "reels/r17-flip.mp4",
+  "src": "page17",
+  "variant": "flip"
+ },
+ "p18-peek": {
+  "kind": "pin",
+  "file": "pins/p18-peek.png",
+  "src": "page18",
+  "variant": "peek"
+ },
+ "p18-facts": {
+  "kind": "pin",
+  "file": "pins/p18-facts.png",
+  "src": "page18",
+  "variant": "facts"
+ },
+ "r18-flip": {
+  "kind": "reel",
+  "file": "reels/r18-flip.mp4",
+  "src": "page18",
+  "variant": "flip"
+ },
+ "p19-peek": {
+  "kind": "pin",
+  "file": "pins/p19-peek.png",
+  "src": "page19",
+  "variant": "peek"
+ },
+ "p19-facts": {
+  "kind": "pin",
+  "file": "pins/p19-facts.png",
+  "src": "page19",
+  "variant": "facts"
+ },
+ "r19-flip": {
+  "kind": "reel",
+  "file": "reels/r19-flip.mp4",
+  "src": "page19",
+  "variant": "flip"
+ },
+ "p20-peek": {
+  "kind": "pin",
+  "file": "pins/p20-peek.png",
+  "src": "page20",
+  "variant": "peek"
+ },
+ "p20-facts": {
+  "kind": "pin",
+  "file": "pins/p20-facts.png",
+  "src": "page20",
+  "variant": "facts"
+ },
+ "r20-flip": {
+  "kind": "reel",
+  "file": "reels/r20-flip.mp4",
+  "src": "page20",
+  "variant": "flip"
+ },
+ "p21-peek": {
+  "kind": "pin",
+  "file": "pins/p21-peek.png",
+  "src": "page21",
+  "variant": "peek"
+ },
+ "p21-facts": {
+  "kind": "pin",
+  "file": "pins/p21-facts.png",
+  "src": "page21",
+  "variant": "facts"
+ },
+ "r21-flip": {
+  "kind": "reel",
+  "file": "reels/r21-flip.mp4",
+  "src": "page21",
+  "variant": "flip"
+ },
+ "p22-peek": {
+  "kind": "pin",
+  "file": "pins/p22-peek.png",
+  "src": "page22",
+  "variant": "peek"
+ },
+ "p22-facts": {
+  "kind": "pin",
+  "file": "pins/p22-facts.png",
+  "src": "page22",
+  "variant": "facts"
+ },
+ "r22-flip": {
+  "kind": "reel",
+  "file": "reels/r22-flip.mp4",
+  "src": "page22",
+  "variant": "flip"
+ },
+ "p23-peek": {
+  "kind": "pin",
+  "file": "pins/p23-peek.png",
+  "src": "page23",
+  "variant": "peek"
+ },
+ "p23-facts": {
+  "kind": "pin",
+  "file": "pins/p23-facts.png",
+  "src": "page23",
+  "variant": "facts"
+ },
+ "r23-flip": {
+  "kind": "reel",
+  "file": "reels/r23-flip.mp4",
+  "src": "page23",
+  "variant": "flip"
+ },
+ "p24-peek": {
+  "kind": "pin",
+  "file": "pins/p24-peek.png",
+  "src": "page24",
+  "variant": "peek"
+ },
+ "p24-facts": {
+  "kind": "pin",
+  "file": "pins/p24-facts.png",
+  "src": "page24",
+  "variant": "facts"
+ },
+ "r24-flip": {
+  "kind": "reel",
+  "file": "reels/r24-flip.mp4",
+  "src": "page24",
+  "variant": "flip"
+ },
+ "p25-peek": {
+  "kind": "pin",
+  "file": "pins/p25-peek.png",
+  "src": "page25",
+  "variant": "peek"
+ },
+ "p25-facts": {
+  "kind": "pin",
+  "file": "pins/p25-facts.png",
+  "src": "page25",
+  "variant": "facts"
+ },
+ "r25-flip": {
+  "kind": "reel",
+  "file": "reels/r25-flip.mp4",
+  "src": "page25",
+  "variant": "flip"
+ },
+ "p26-peek": {
+  "kind": "pin",
+  "file": "pins/p26-peek.png",
+  "src": "page26",
+  "variant": "peek"
+ },
+ "p26-facts": {
+  "kind": "pin",
+  "file": "pins/p26-facts.png",
+  "src": "page26",
+  "variant": "facts"
+ },
+ "r26-flip": {
+  "kind": "reel",
+  "file": "reels/r26-flip.mp4",
+  "src": "page26",
+  "variant": "flip"
+ },
+ "p27-peek": {
+  "kind": "pin",
+  "file": "pins/p27-peek.png",
+  "src": "page27",
+  "variant": "peek"
+ },
+ "p27-facts": {
+  "kind": "pin",
+  "file": "pins/p27-facts.png",
+  "src": "page27",
+  "variant": "facts"
+ },
+ "r27-flip": {
+  "kind": "reel",
+  "file": "reels/r27-flip.mp4",
+  "src": "page27",
+  "variant": "flip"
+ },
+ "p28-peek": {
+  "kind": "pin",
+  "file": "pins/p28-peek.png",
+  "src": "page28",
+  "variant": "peek"
+ },
+ "p28-facts": {
+  "kind": "pin",
+  "file": "pins/p28-facts.png",
+  "src": "page28",
+  "variant": "facts"
+ },
+ "r28-flip": {
+  "kind": "reel",
+  "file": "reels/r28-flip.mp4",
+  "src": "page28",
+  "variant": "flip"
+ },
+ "p29-peek": {
+  "kind": "pin",
+  "file": "pins/p29-peek.png",
+  "src": "page29",
+  "variant": "peek"
+ },
+ "p29-facts": {
+  "kind": "pin",
+  "file": "pins/p29-facts.png",
+  "src": "page29",
+  "variant": "facts"
+ },
+ "r29-flip": {
+  "kind": "reel",
+  "file": "reels/r29-flip.mp4",
+  "src": "page29",
+  "variant": "flip"
+ },
+ "p30-peek": {
+  "kind": "pin",
+  "file": "pins/p30-peek.png",
+  "src": "page30",
+  "variant": "peek"
+ },
+ "p30-facts": {
+  "kind": "pin",
+  "file": "pins/p30-facts.png",
+  "src": "page30",
+  "variant": "facts"
+ },
+ "r30-flip": {
+  "kind": "reel",
+  "file": "reels/r30-flip.mp4",
+  "src": "page30",
+  "variant": "flip"
+ },
+ "p31-peek": {
+  "kind": "pin",
+  "file": "pins/p31-peek.png",
+  "src": "page31",
+  "variant": "peek"
+ },
+ "p31-facts": {
+  "kind": "pin",
+  "file": "pins/p31-facts.png",
+  "src": "page31",
+  "variant": "facts"
+ },
+ "r31-flip": {
+  "kind": "reel",
+  "file": "reels/r31-flip.mp4",
+  "src": "page31",
+  "variant": "flip"
+ },
+ "p32-peek": {
+  "kind": "pin",
+  "file": "pins/p32-peek.png",
+  "src": "page32",
+  "variant": "peek"
+ },
+ "p32-facts": {
+  "kind": "pin",
+  "file": "pins/p32-facts.png",
+  "src": "page32",
+  "variant": "facts"
+ },
+ "r32-flip": {
+  "kind": "reel",
+  "file": "reels/r32-flip.mp4",
+  "src": "page32",
+  "variant": "flip"
+ },
+ "q1-quiz": {
+  "kind": "reel",
+  "file": "reels/q1-quiz.mp4",
+  "src": "q1",
+  "variant": "quiz"
+ },
+ "q2-quiz": {
+  "kind": "reel",
+  "file": "reels/q2-quiz.mp4",
+  "src": "q2",
+  "variant": "quiz"
+ },
+ "q3-quiz": {
+  "kind": "reel",
+  "file": "reels/q3-quiz.mp4",
+  "src": "q3",
+  "variant": "quiz"
+ }
+}
