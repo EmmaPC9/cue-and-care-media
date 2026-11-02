@@ -1,0 +1,961 @@
+{
+ "brand": "Cue & Care",
+ "oneup": {
+  "category_id": 191131,
+  "pinterest_account_id": "pin_cueandcare",
+  "pinterest_username": "cueandcare",
+  "reel_account_ids": [
+   "17841445371165624",
+   "_000-QB-fzQHGvCjUB7FFIMhNAodeOJeWhoM"
+  ],
+  "preferred_board_name": "NCLEX Study Tips",
+  "fallback_board": {
+   "board_id": "1087971291172750572",
+   "board_name": "Quick Saves"
+  }
+ },
+ "plan_ends": "2027-01-17",
+ "week1_already_scheduled": "2026-11-02 to 2026-11-08",
+ "posts": [
+  {
+   "date": "2026-11-09",
+   "time": "19:00",
+   "kind": "pin",
+   "file": "pins/p03-facts.png",
+   "title": "NCLEX 2026 Explained: Questions, Time Limit, Test Plan %",
+   "content": "NCLEX-RN at a glance for 2026: 85 to 150 questions, 5 hours, 3 case studies, computer adaptive. Plus the 8 client needs categories and their percentages. Save this NCLEX study guide cheat sheet for nursing school. #nclex #nursingschool #nursingstudent #nclexprep #nclexrn #nclex2026",
+   "image_url": "https://emmapc9.github.io/cue-and-care-media/pins/p03-facts.png",
+   "destination_link": "https://www.etsy.com/shop/CueandCare"
+  },
+  {
+   "date": "2026-11-09",
+   "time": "12:00",
+   "kind": "reel",
+   "file": "reels/r03-flip.mp4",
+   "content": "The NCLEX in one page: 85–150 questions, 5 hours, 3 case studies, and it adapts to you. The number of questions you get tells you nothing, so don't panic at 85 or 150. Save this for later.\n\nFull NCLEX Essentials study bundle, RN-reviewed: link in bio.\n\n#nclex #nursingschool #nursingstudent #nclexprep #futurenurse #nclexrn #nclex2026",
+   "video_url": "https://emmapc9.github.io/cue-and-care-media/reels/r03-flip.mp4"
+  },
+  {
+   "date": "2026-11-10",
+   "time": "19:00",
+   "kind": "pin",
+   "file": "pins/p04-facts.png",
+   "title": "NCLEX Clinical Judgment Model: The 6 Steps Explained",
+   "content": "The 6 steps of the clinical judgment model behind every NCLEX case study: recognize cues, analyze cues, prioritize hypotheses, generate solutions, take action, evaluate outcomes. Nursing school study guide and NGN case study tips. #nclex #nursingschool #nursingstudent #nclexprep #ngn #clinicaljudgment",
+   "image_url": "https://emmapc9.github.io/cue-and-care-media/pins/p04-facts.png",
+   "destination_link": "https://www.etsy.com/shop/CueandCare"
+  },
+  {
+   "date": "2026-11-11",
+   "time": "19:00",
+   "kind": "pin",
+   "file": "pins/p05-facts.png",
+   "title": "NCLEX Prioritization Cheat Sheet: Who Do You See First?",
+   "content": "NCLEX prioritization rules: airway, breathing, circulation, disability, safety. Acute over chronic, unstable over stable, actual over potential. Nursing student cheat sheet with practice questions. #nclex #nursingschool #nursingstudent #nclexprep #prioritization #nursingtips",
+   "image_url": "https://emmapc9.github.io/cue-and-care-media/pins/p05-facts.png",
+   "destination_link": "https://www.etsy.com/shop/CueandCare"
+  },
+  {
+   "date": "2026-11-11",
+   "time": "12:00",
+   "kind": "reel",
+   "file": "reels/r04-flip.mp4",
+   "content": "Every NCLEX case study walks through the same 6 steps. Learn the question each step asks and you'll know what every item wants. Which step trips you up most?\n\nFull NCLEX Essentials study bundle, RN-reviewed: link in bio.\n\n#nclex #nursingschool #nursingstudent #nclexprep #futurenurse #ngn #clinicaljudgment",
+   "video_url": "https://emmapc9.github.io/cue-and-care-media/reels/r04-flip.mp4"
+  },
+  {
+   "date": "2026-11-12",
+   "time": "19:00",
+   "kind": "pin",
+   "file": "pins/p06-facts.png",
+   "title": "Nursing Delegation Made Easy: RN vs LPN vs UAP (EAT Rule)",
+   "content": "NCLEX delegation rules: the RN keeps Evaluate, Assess, Teach (EAT). What LPNs and UAPs can and can't do, plus the 5 rights of delegation. Nursing school cheat sheet. #nclex #nursingschool #nursingstudent #nclexprep #delegation #nursingtips",
+   "image_url": "https://emmapc9.github.io/cue-and-care-media/pins/p06-facts.png",
+   "destination_link": "https://www.etsy.com/shop/CueandCare"
+  },
+  {
+   "date": "2026-11-13",
+   "time": "19:00",
+   "kind": "pin",
+   "file": "pins/p08-facts.png",
+   "title": "Restraints, Fall Prevention & Fire Safety (RACE, PASS) for NCLEX",
+   "content": "Nursing safety cheat sheet: restraint rules (never PRN, tie to bed frame, quick-release knot, two fingers), fall prevention, RACE and PASS fire safety, disaster triage colors and client positioning. #nclex #nursingschool #nursingstudent #nclexprep #patientsafety #nursingtips",
+   "image_url": "https://emmapc9.github.io/cue-and-care-media/pins/p08-facts.png",
+   "destination_link": "https://www.etsy.com/shop/CueandCare"
+  },
+  {
+   "date": "2026-11-13",
+   "time": "12:00",
+   "kind": "reel",
+   "file": "reels/r05-flip.mp4",
+   "content": "Stuck between two clients? Climb the ladder: airway, breathing, circulation, neuro, safety. Then the tie-breakers: acute over chronic, unstable over stable, actual over potential.\n\nFull NCLEX Essentials study bundle, RN-reviewed: link in bio.\n\n#nclex #nursingschool #nursingstudent #nclexprep #futurenurse #prioritization #nursingtips",
+   "video_url": "https://emmapc9.github.io/cue-and-care-media/reels/r05-flip.mp4"
+  },
+  {
+   "date": "2026-11-14",
+   "time": "19:00",
+   "kind": "pin",
+   "file": "pins/p09-facts.png",
+   "title": "Therapeutic Communication NCLEX Cheat Sheet: Do's and Don'ts",
+   "content": "Therapeutic vs non-therapeutic communication for the NCLEX with examples: reflecting, open-ended questions, silence, presenting reality vs false reassurance, asking why, giving advice. #nclex #nursingschool #nursingstudent #nclexprep #therapeuticcommunication #mentalhealthnursing",
+   "image_url": "https://emmapc9.github.io/cue-and-care-media/pins/p09-facts.png",
+   "destination_link": "https://www.etsy.com/shop/CueandCare"
+  },
+  {
+   "date": "2026-11-15",
+   "time": "19:00",
+   "kind": "pin",
+   "file": "pins/p10-facts.png",
+   "title": "CBC & Coag Lab Values for Nursing: Heparin aPTT vs Warfarin INR",
+   "content": "Nursing lab values cheat sheet: WBC, hemoglobin, hematocrit, platelets, PT/INR and aPTT. Heparin = aPTT = protamine. Warfarin = PT/INR = vitamin K. Platelet danger zones and neutropenic precautions. #nclex #nursingschool #nursingstudent #nclexprep #labvalues #pharmacology",
+   "image_url": "https://emmapc9.github.io/cue-and-care-media/pins/p10-facts.png",
+   "destination_link": "https://www.etsy.com/shop/CueandCare"
+  },
+  {
+   "date": "2026-11-16",
+   "time": "19:00",
+   "kind": "pin",
+   "file": "pins/p12-facts.png",
+   "title": "Therapeutic Drug Levels for Nursing: Digoxin, Lithium, Phenytoin",
+   "content": "Therapeutic drug level ranges and toxicity signs for nursing: digoxin 0.5–2.0, lithium 0.6–1.2, phenytoin 10–20, vancomycin trough, gentamicin peak and trough. Common teaching ranges. #nclex #nursingschool #nursingstudent #nclexprep #pharmacology #labvalues",
+   "image_url": "https://emmapc9.github.io/cue-and-care-media/pins/p12-facts.png",
+   "destination_link": "https://www.etsy.com/shop/CueandCare"
+  },
+  {
+   "date": "2026-11-16",
+   "time": "12:00",
+   "kind": "reel",
+   "file": "reels/q2-quiz.mp4",
+   "content": "Numb, pale toes under a new cast. Would you have picked it? Drop your answer below.\n\nFull NCLEX Essentials study bundle, RN-reviewed: link in bio.\n\n#nclex #nursingschool #nursingstudent #nclexprep #futurenurse #nursingtips #nclexquestions",
+   "video_url": "https://emmapc9.github.io/cue-and-care-media/reels/q2-quiz.mp4"
+  },
+  {
+   "date": "2026-11-17",
+   "time": "19:00",
+   "kind": "pin",
+   "file": "pins/p13-facts.png",
+   "title": "How to Interpret ABGs in 3 Steps: ROME Method for Nursing",
+   "content": "Easy ABG interpretation for nursing students: normal values (pH 7.35–7.45, PaCO2 35–45, HCO3 22–26), the ROME mnemonic, compensation and 4 practice ABGs with answers. #nclex #nursingschool #nursingstudent #nclexprep #abg #nursingmnemonics",
+   "image_url": "https://emmapc9.github.io/cue-and-care-media/pins/p13-facts.png",
+   "destination_link": "https://www.etsy.com/shop/CueandCare"
+  },
+  {
+   "date": "2026-11-18",
+   "time": "19:00",
+   "kind": "pin",
+   "file": "pins/p14-facts.png",
+   "title": "Hypokalemia vs Hyperkalemia & Sodium Imbalances: Nursing Cheat Sheet",
+   "content": "Potassium and sodium imbalances for the NCLEX: hypokalemia flat T waves and U waves, hyperkalemia peaked T waves, never IV push potassium, SIADH hyponatremia, diabetes insipidus hypernatremia. #nclex #nursingschool #nursingstudent #nclexprep #electrolytes #nursingtips",
+   "image_url": "https://emmapc9.github.io/cue-and-care-media/pins/p14-facts.png",
+   "destination_link": "https://www.etsy.com/shop/CueandCare"
+  },
+  {
+   "date": "2026-11-18",
+   "time": "12:00",
+   "kind": "reel",
+   "file": "reels/r06-flip.mp4",
+   "content": "Delegation in 3 letters: EAT. The RN keeps Evaluate, Assess and Teach, plus any unstable client. You can delegate tasks, never accountability.\n\nFull NCLEX Essentials study bundle, RN-reviewed: link in bio.\n\n#nclex #nursingschool #nursingstudent #nclexprep #futurenurse #delegation #nursingtips",
+   "video_url": "https://emmapc9.github.io/cue-and-care-media/reels/r06-flip.mp4"
+  },
+  {
+   "date": "2026-11-19",
+   "time": "19:00",
+   "kind": "pin",
+   "file": "pins/p15-facts.png",
+   "title": "Calcium & Magnesium Imbalances: Chvostek, Trousseau, Mag Toxicity",
+   "content": "Hypocalcemia (Chvostek and Trousseau signs, after thyroidectomy), hypercalcemia (stones, bones, groans), hypomagnesemia and hypermagnesemia with calcium gluconate as the antidote. Nursing cheat sheet. #nclex #nursingschool #nursingstudent #nclexprep #electrolytes #nursingmnemonics",
+   "image_url": "https://emmapc9.github.io/cue-and-care-media/pins/p15-facts.png",
+   "destination_link": "https://www.etsy.com/shop/CueandCare"
+  },
+  {
+   "date": "2026-11-20",
+   "time": "19:00",
+   "kind": "pin",
+   "file": "pins/p16-facts.png",
+   "title": "IV Fluids Cheat Sheet: Isotonic, Hypotonic, Hypertonic for Nursing",
+   "content": "IV fluid types for nursing school: 0.9% NS, lactated Ringer's, D5W, 0.45% NaCl, 3% saline. Fluid volume deficit vs excess, IV complications and blood transfusion essentials. #nclex #nursingschool #nursingstudent #nclexprep #ivfluids #nursingtips",
+   "image_url": "https://emmapc9.github.io/cue-and-care-media/pins/p16-facts.png",
+   "destination_link": "https://www.etsy.com/shop/CueandCare"
+  },
+  {
+   "date": "2026-11-20",
+   "time": "12:00",
+   "kind": "reel",
+   "file": "reels/r07-flip.mp4",
+   "content": "Airborne precautions = \"My Chicken Hez TB.\" N95, negative-pressure room, door closed. And for C. diff: soap and water, because alcohol rub doesn't kill spores.\n\nFull NCLEX Essentials study bundle, RN-reviewed: link in bio.\n\n#nclex #nursingschool #nursingstudent #nclexprep #futurenurse #infectioncontrol #nursingmnemonics",
+   "video_url": "https://emmapc9.github.io/cue-and-care-media/reels/r07-flip.mp4"
+  },
+  {
+   "date": "2026-11-21",
+   "time": "19:00",
+   "kind": "pin",
+   "file": "pins/p17-facts.png",
+   "title": "Pharmacology Drug Suffixes Cheat Sheet: -olol, -pril, -sartan & More",
+   "content": "Drug suffix decoder for nursing pharmacology: -olol beta blockers, -pril ACE inhibitors, -sartan ARBs, -statin, -prazole, -parin and more, with the key nursing check for each class. #nclex #nursingschool #nursingstudent #nclexprep #pharmacology #nursingcheatsheet",
+   "image_url": "https://emmapc9.github.io/cue-and-care-media/pins/p17-facts.png",
+   "destination_link": "https://www.etsy.com/shop/CueandCare"
+  },
+  {
+   "date": "2026-11-22",
+   "time": "19:00",
+   "kind": "pin",
+   "file": "pins/p18-facts.png",
+   "title": "Cardiac Meds for Nursing: Digoxin, Beta Blockers, ACE, Nitro",
+   "content": "Cardiac medications nursing cheat sheet: digoxin apical pulse for 1 full minute, beta blockers mask hypoglycemia, ACE inhibitor cough and angioedema, nitroglycerin rules, loop vs thiazide vs potassium-sparing diuretics. #nclex #nursingschool #nursingstudent #nclexprep #pharmacology #cardiacnursing",
+   "image_url": "https://emmapc9.github.io/cue-and-care-media/pins/p18-facts.png",
+   "destination_link": "https://www.etsy.com/shop/CueandCare"
+  },
+  {
+   "date": "2026-11-23",
+   "time": "19:00",
+   "kind": "pin",
+   "file": "pins/p20-facts.png",
+   "title": "Insulin Chart for Nursing: Onset, Peak, Duration + Clear Before Cloudy",
+   "content": "Insulin types for nursing school: rapid, short (regular), intermediate (NPH), long-acting. Onset, peak and duration, mixing clear before cloudy, the rule of 15 for hypoglycemia, and non-insulin diabetes meds. #nclex #nursingschool #nursingstudent #nclexprep #insulin #diabetes",
+   "image_url": "https://emmapc9.github.io/cue-and-care-media/pins/p20-facts.png",
+   "destination_link": "https://www.etsy.com/shop/CueandCare"
+  },
+  {
+   "date": "2026-11-23",
+   "time": "12:00",
+   "kind": "reel",
+   "file": "reels/r08-flip.mp4",
+   "content": "Restraints: least restrictive first, never a PRN order, tie to the bed frame (not the side rail) with a quick-release knot, and two fingers should fit under it.\n\nFull NCLEX Essentials study bundle, RN-reviewed: link in bio.\n\n#nclex #nursingschool #nursingstudent #nclexprep #futurenurse #patientsafety #nursingtips",
+   "video_url": "https://emmapc9.github.io/cue-and-care-media/reels/r08-flip.mp4"
+  },
+  {
+   "date": "2026-11-24",
+   "time": "19:00",
+   "kind": "pin",
+   "file": "pins/p21-facts.png",
+   "title": "High-Alert & Psych Meds for Nursing: Opioids, Lithium, SSRIs, MAOIs",
+   "content": "Nursing pharmacology cheat sheet: opioid respiratory depression, antipsychotic EPS and NMS, SSRI and serotonin syndrome, MAOI tyramine foods, lithium toxicity, vancomycin and TB drugs. #nclex #nursingschool #nursingstudent #nclexprep #pharmacology #mentalhealthnursing",
+   "image_url": "https://emmapc9.github.io/cue-and-care-media/pins/p21-facts.png",
+   "destination_link": "https://www.etsy.com/shop/CueandCare"
+  },
+  {
+   "date": "2026-11-25",
+   "time": "19:00",
+   "kind": "pin",
+   "file": "pins/p22-facts.png",
+   "title": "Left vs Right Heart Failure + Heart Rhythms for Nursing",
+   "content": "Left vs right sided heart failure made simple, MI signs (atypical in women), and must-know rhythms: atrial fibrillation, SVT, VT, VF and asystole with the priority action for each. #nclex #nursingschool #nursingstudent #nclexprep #cardiacnursing #nursingmnemonics",
+   "image_url": "https://emmapc9.github.io/cue-and-care-media/pins/p22-facts.png",
+   "destination_link": "https://www.etsy.com/shop/CueandCare"
+  },
+  {
+   "date": "2026-11-25",
+   "time": "12:00",
+   "kind": "reel",
+   "file": "reels/r09-flip.mp4",
+   "content": "The best NCLEX communication answer usually names the client's feeling first. Rule out false reassurance, \"why\" questions and advice-giving.\n\nFull NCLEX Essentials study bundle, RN-reviewed: link in bio.\n\n#nclex #nursingschool #nursingstudent #nclexprep #futurenurse #therapeuticcommunication #mentalhealthnursing",
+   "video_url": "https://emmapc9.github.io/cue-and-care-media/reels/r09-flip.mp4"
+  },
+  {
+   "date": "2026-11-26",
+   "time": "19:00",
+   "kind": "pin",
+   "file": "pins/p23-facts.png",
+   "title": "Respiratory Nursing Cheat Sheet: COPD, Asthma, Chest Tubes",
+   "content": "Respiratory nursing review: asthma vs COPD, COPD SpO2 target 88–92%, early vs late hypoxia signs, chest tube care and troubleshooting, ventilator alarms and suctioning rules. #nclex #nursingschool #nursingstudent #nclexprep #respiratory #nursingtips",
+   "image_url": "https://emmapc9.github.io/cue-and-care-media/pins/p23-facts.png",
+   "destination_link": "https://www.etsy.com/shop/CueandCare"
+  },
+  {
+   "date": "2026-11-27",
+   "time": "19:00",
+   "kind": "pin",
+   "file": "pins/p24-facts.png",
+   "title": "DKA vs HHS, Thyroid, Addison's vs Cushing's: Endocrine Cheat Sheet",
+   "content": "Endocrine nursing cheat sheet: DKA vs HHS comparison, DKA treatment order (fluids, check potassium, insulin), hypo vs hyperthyroid, Addison's vs Cushing's, SIADH vs diabetes insipidus. #nclex #nursingschool #nursingstudent #nclexprep #endocrine #nursingmnemonics",
+   "image_url": "https://emmapc9.github.io/cue-and-care-media/pins/p24-facts.png",
+   "destination_link": "https://www.etsy.com/shop/CueandCare"
+  },
+  {
+   "date": "2026-11-27",
+   "time": "12:00",
+   "kind": "reel",
+   "file": "reels/r10-flip.mp4",
+   "content": "\"WePT\": Warfarin = PT/INR, reversed with vitamin K. Heparin gets the other one: aPTT, reversed with protamine.\n\nFull NCLEX Essentials study bundle, RN-reviewed: link in bio.\n\n#nclex #nursingschool #nursingstudent #nclexprep #futurenurse #labvalues #pharmacology",
+   "video_url": "https://emmapc9.github.io/cue-and-care-media/reels/r10-flip.mp4"
+  },
+  {
+   "date": "2026-11-28",
+   "time": "19:00",
+   "kind": "pin",
+   "file": "pins/p25-facts.png",
+   "title": "Neuro Nursing Cheat Sheet: ICP, GCS, Stroke BE FAST, Seizures",
+   "content": "Neuro nursing review for the NCLEX: early vs late signs of increased ICP (Cushing's triad), Glasgow Coma Scale (8 = intubate), stroke BE FAST, seizure care and autonomic dysreflexia. #nclex #nursingschool #nursingstudent #nclexprep #neuronursing #nursingtips",
+   "image_url": "https://emmapc9.github.io/cue-and-care-media/pins/p25-facts.png",
+   "destination_link": "https://www.etsy.com/shop/CueandCare"
+  },
+  {
+   "date": "2026-11-29",
+   "time": "19:00",
+   "kind": "pin",
+   "file": "pins/p26-facts.png",
+   "title": "Renal & GI Nursing Cheat Sheet: Dialysis, AV Fistula, GI Bleed",
+   "content": "Renal and GI nursing review: AV fistula care (thrill and bruit, no BP in that arm), peritoneal dialysis cloudy effluent, CKD diet, appendicitis, pancreatitis, cirrhosis and GI bleeding. #nclex #nursingschool #nursingstudent #nclexprep #renal #nursingtips",
+   "image_url": "https://emmapc9.github.io/cue-and-care-media/pins/p26-facts.png",
+   "destination_link": "https://www.etsy.com/shop/CueandCare"
+  },
+  {
+   "date": "2026-11-30",
+   "time": "19:00",
+   "kind": "pin",
+   "file": "pins/p27-facts.png",
+   "title": "Shock Types, Sepsis & Burns (Rule of Nines, Parkland) for Nursing",
+   "content": "Shock types comparison, sepsis bundle basics, rule of nines and the Parkland formula with a worked example, compartment syndrome and fat embolism. Emergency nursing cheat sheet. #nclex #nursingschool #nursingstudent #nclexprep #emergencynursing #nursingmath",
+   "image_url": "https://emmapc9.github.io/cue-and-care-media/pins/p27-facts.png",
+   "destination_link": "https://www.etsy.com/shop/CueandCare"
+  },
+  {
+   "date": "2026-11-30",
+   "time": "12:00",
+   "kind": "reel",
+   "file": "reels/r11-flip.mp4",
+   "content": "Sodium 135–145. Potassium 3.5–5.0. Fasting glucose 70–100. These show up everywhere on the NCLEX. (Ranges vary slightly by lab; follow your program.)\n\nFull NCLEX Essentials study bundle, RN-reviewed: link in bio.\n\n#nclex #nursingschool #nursingstudent #nclexprep #futurenurse #labvalues #nursingcheatsheet",
+   "video_url": "https://emmapc9.github.io/cue-and-care-media/reels/r11-flip.mp4"
+  },
+  {
+   "date": "2026-12-01",
+   "time": "19:00",
+   "kind": "pin",
+   "file": "pins/p29-facts.png",
+   "title": "Postpartum Nursing Cheat Sheet: Hemorrhage, Mag Toxicity, Apgar",
+   "content": "Postpartum and OB complications: preeclampsia severe features, magnesium sulfate toxicity and antidote, previa vs abruption, postpartum hemorrhage (fundal massage first), lochia stages and Apgar scoring. #nclex #nursingschool #nursingstudent #nclexprep #maternitynursing #postpartum",
+   "image_url": "https://emmapc9.github.io/cue-and-care-media/pins/p29-facts.png",
+   "destination_link": "https://www.etsy.com/shop/CueandCare"
+  },
+  {
+   "date": "2026-12-02",
+   "time": "19:00",
+   "kind": "pin",
+   "file": "pins/p30-facts.png",
+   "title": "Pediatric Nursing Cheat Sheet: Vital Signs, Milestones, Erikson",
+   "content": "Pediatric nursing review: vital signs by age, growth and motor milestones, Erikson stages and types of play, epiglottitis, croup, cystic fibrosis and Kawasaki disease. #nclex #nursingschool #nursingstudent #nclexprep #pediatricnursing #pedsnursing",
+   "image_url": "https://emmapc9.github.io/cue-and-care-media/pins/p30-facts.png",
+   "destination_link": "https://www.etsy.com/shop/CueandCare"
+  },
+  {
+   "date": "2026-12-02",
+   "time": "12:00",
+   "kind": "reel",
+   "file": "reels/q3-quiz.mp4",
+   "content": "Therapeutic communication check. Which one did you pick?\n\nFull NCLEX Essentials study bundle, RN-reviewed: link in bio.\n\n#nclex #nursingschool #nursingstudent #nclexprep #futurenurse #nursingtips #nclexquestions",
+   "video_url": "https://emmapc9.github.io/cue-and-care-media/reels/q3-quiz.mp4"
+  },
+  {
+   "date": "2026-12-03",
+   "time": "19:00",
+   "kind": "pin",
+   "file": "pins/p31-facts.png",
+   "title": "Mental Health Nursing Cheat Sheet: Withdrawal, Suicide Risk, Defenses",
+   "content": "Psych nursing review: suicide risk assessment, alcohol withdrawal timeline (seizures 12–48 hr, DTs 48–72 hr), thiamine before glucose, defense mechanisms, anxiety levels and de-escalation. #nclex #nursingschool #nursingstudent #nclexprep #psychnursing #mentalhealthnursing",
+   "image_url": "https://emmapc9.github.io/cue-and-care-media/pins/p31-facts.png",
+   "destination_link": "https://www.etsy.com/shop/CueandCare"
+  },
+  {
+   "date": "2026-12-04",
+   "time": "19:00",
+   "kind": "pin",
+   "file": "pins/p32-facts.png",
+   "title": "Nursing Dosage Calculations Cheat Sheet: Formulas + Worked Examples",
+   "content": "Dosage calculation formulas for nursing school: desired over have times volume, IV rate mL/hr, drip rate gtt/min, weight-based dosing and conversions, with 6 worked examples. #nclex #nursingschool #nursingstudent #nclexprep #dosagecalculations #nursingmath",
+   "image_url": "https://emmapc9.github.io/cue-and-care-media/pins/p32-facts.png",
+   "destination_link": "https://www.etsy.com/shop/CueandCare"
+  },
+  {
+   "date": "2026-12-04",
+   "time": "12:00",
+   "kind": "reel",
+   "file": "reels/r12-flip.mp4",
+   "content": "Digoxin, lithium, phenytoin: tiny gap between helpful and toxic. Digoxin toxicity = nausea, yellow-green halos, bradycardia. Low potassium makes it worse.\n\nFull NCLEX Essentials study bundle, RN-reviewed: link in bio.\n\n#nclex #nursingschool #nursingstudent #nclexprep #futurenurse #pharmacology #labvalues",
+   "video_url": "https://emmapc9.github.io/cue-and-care-media/reels/r12-flip.mp4"
+  },
+  {
+   "date": "2026-12-05",
+   "time": "19:00",
+   "kind": "pin",
+   "file": "pins/p03-peek.png",
+   "title": "NCLEX 2026 Explained: Questions, Time Limit, Test Plan %",
+   "content": "NCLEX-RN at a glance for 2026: 85 to 150 questions, 5 hours, 3 case studies, computer adaptive. Plus the 8 client needs categories and their percentages. Save this NCLEX study guide cheat sheet for nursing school. #nclex #nursingschool #nursingstudent #nclexprep #nclexrn #nclex2026",
+   "image_url": "https://emmapc9.github.io/cue-and-care-media/pins/p03-peek.png",
+   "destination_link": "https://www.etsy.com/shop/CueandCare"
+  },
+  {
+   "date": "2026-12-06",
+   "time": "19:00",
+   "kind": "pin",
+   "file": "pins/p04-peek.png",
+   "title": "NCLEX Clinical Judgment Model: The 6 Steps Explained",
+   "content": "The 6 steps of the clinical judgment model behind every NCLEX case study: recognize cues, analyze cues, prioritize hypotheses, generate solutions, take action, evaluate outcomes. Nursing school study guide and NGN case study tips. #nclex #nursingschool #nursingstudent #nclexprep #ngn #clinicaljudgment",
+   "image_url": "https://emmapc9.github.io/cue-and-care-media/pins/p04-peek.png",
+   "destination_link": "https://www.etsy.com/shop/CueandCare"
+  },
+  {
+   "date": "2026-12-07",
+   "time": "19:00",
+   "kind": "pin",
+   "file": "pins/p06-peek.png",
+   "title": "Nursing Delegation Made Easy: RN vs LPN vs UAP (EAT Rule)",
+   "content": "NCLEX delegation rules: the RN keeps Evaluate, Assess, Teach (EAT). What LPNs and UAPs can and can't do, plus the 5 rights of delegation. Nursing school cheat sheet. #nclex #nursingschool #nursingstudent #nclexprep #delegation #nursingtips",
+   "image_url": "https://emmapc9.github.io/cue-and-care-media/pins/p06-peek.png",
+   "destination_link": "https://www.etsy.com/shop/CueandCare"
+  },
+  {
+   "date": "2026-12-07",
+   "time": "12:00",
+   "kind": "reel",
+   "file": "reels/r13-flip.mp4",
+   "content": "ABGs in 3 steps: look at the pH, find the value that matches, check for compensation. ROME does the rest: Respiratory Opposite, Metabolic Equal.\n\nFull NCLEX Essentials study bundle, RN-reviewed: link in bio.\n\n#nclex #nursingschool #nursingstudent #nclexprep #futurenurse #abg #nursingmnemonics",
+   "video_url": "https://emmapc9.github.io/cue-and-care-media/reels/r13-flip.mp4"
+  },
+  {
+   "date": "2026-12-08",
+   "time": "19:00",
+   "kind": "pin",
+   "file": "pins/p07-peek.png",
+   "title": "Isolation Precautions Cheat Sheet: Contact, Droplet, Airborne",
+   "content": "Contact, droplet and airborne precautions for the NCLEX, plus PPE donning and doffing order. Airborne: My Chicken Hez TB (measles, chickenpox, disseminated zoster, TB). C. diff needs soap and water. #nclex #nursingschool #nursingstudent #nclexprep #infectioncontrol #nursingmnemonics",
+   "image_url": "https://emmapc9.github.io/cue-and-care-media/pins/p07-peek.png",
+   "destination_link": "https://www.etsy.com/shop/CueandCare"
+  },
+  {
+   "date": "2026-12-09",
+   "time": "19:00",
+   "kind": "pin",
+   "file": "pins/p08-peek.png",
+   "title": "Restraints, Fall Prevention & Fire Safety (RACE, PASS) for NCLEX",
+   "content": "Nursing safety cheat sheet: restraint rules (never PRN, tie to bed frame, quick-release knot, two fingers), fall prevention, RACE and PASS fire safety, disaster triage colors and client positioning. #nclex #nursingschool #nursingstudent #nclexprep #patientsafety #nursingtips",
+   "image_url": "https://emmapc9.github.io/cue-and-care-media/pins/p08-peek.png",
+   "destination_link": "https://www.etsy.com/shop/CueandCare"
+  },
+  {
+   "date": "2026-12-09",
+   "time": "12:00",
+   "kind": "reel",
+   "file": "reels/r14-flip.mp4",
+   "content": "Low potassium = low and slow: weak muscles, flat T waves, U waves. High potassium = tall peaked T waves. And IV potassium is NEVER given by IV push.\n\nFull NCLEX Essentials study bundle, RN-reviewed: link in bio.\n\n#nclex #nursingschool #nursingstudent #nclexprep #futurenurse #electrolytes #nursingtips",
+   "video_url": "https://emmapc9.github.io/cue-and-care-media/reels/r14-flip.mp4"
+  },
+  {
+   "date": "2026-12-10",
+   "time": "19:00",
+   "kind": "pin",
+   "file": "pins/p09-peek.png",
+   "title": "Therapeutic Communication NCLEX Cheat Sheet: Do's and Don'ts",
+   "content": "Therapeutic vs non-therapeutic communication for the NCLEX with examples: reflecting, open-ended questions, silence, presenting reality vs false reassurance, asking why, giving advice. #nclex #nursingschool #nursingstudent #nclexprep #therapeuticcommunication #mentalhealthnursing",
+   "image_url": "https://emmapc9.github.io/cue-and-care-media/pins/p09-peek.png",
+   "destination_link": "https://www.etsy.com/shop/CueandCare"
+  },
+  {
+   "date": "2026-12-11",
+   "time": "19:00",
+   "kind": "pin",
+   "file": "pins/p10-peek.png",
+   "title": "CBC & Coag Lab Values for Nursing: Heparin aPTT vs Warfarin INR",
+   "content": "Nursing lab values cheat sheet: WBC, hemoglobin, hematocrit, platelets, PT/INR and aPTT. Heparin = aPTT = protamine. Warfarin = PT/INR = vitamin K. Platelet danger zones and neutropenic precautions. #nclex #nursingschool #nursingstudent #nclexprep #labvalues #pharmacology",
+   "image_url": "https://emmapc9.github.io/cue-and-care-media/pins/p10-peek.png",
+   "destination_link": "https://www.etsy.com/shop/CueandCare"
+  },
+  {
+   "date": "2026-12-11",
+   "time": "12:00",
+   "kind": "reel",
+   "file": "reels/r15-flip.mp4",
+   "content": "Post-thyroidectomy client with tingling lips? Think low calcium. Chvostek (tap the cheek) and Trousseau (BP cuff) are your signs.\n\nFull NCLEX Essentials study bundle, RN-reviewed: link in bio.\n\n#nclex #nursingschool #nursingstudent #nclexprep #futurenurse #electrolytes #nursingmnemonics",
+   "video_url": "https://emmapc9.github.io/cue-and-care-media/reels/r15-flip.mp4"
+  },
+  {
+   "date": "2026-12-12",
+   "time": "19:00",
+   "kind": "pin",
+   "file": "pins/p11-peek.png",
+   "title": "Nursing Lab Values Cheat Sheet: Chemistry Panel (Na, K, Ca, BUN)",
+   "content": "Must-know chemistry lab values for nursing school and the NCLEX: sodium 135–145, potassium 3.5–5.0, calcium, magnesium, BUN, creatinine, fasting glucose 70–100, liver enzymes, troponin, BNP and HbA1c. Ranges vary by lab. #nclex #nursingschool #nursingstudent #nclexprep #labvalues #nursingcheatsheet",
+   "image_url": "https://emmapc9.github.io/cue-and-care-media/pins/p11-peek.png",
+   "destination_link": "https://www.etsy.com/shop/CueandCare"
+  },
+  {
+   "date": "2026-12-13",
+   "time": "19:00",
+   "kind": "pin",
+   "file": "pins/p12-peek.png",
+   "title": "Therapeutic Drug Levels for Nursing: Digoxin, Lithium, Phenytoin",
+   "content": "Therapeutic drug level ranges and toxicity signs for nursing: digoxin 0.5–2.0, lithium 0.6–1.2, phenytoin 10–20, vancomycin trough, gentamicin peak and trough. Common teaching ranges. #nclex #nursingschool #nursingstudent #nclexprep #pharmacology #labvalues",
+   "image_url": "https://emmapc9.github.io/cue-and-care-media/pins/p12-peek.png",
+   "destination_link": "https://www.etsy.com/shop/CueandCare"
+  },
+  {
+   "date": "2026-12-14",
+   "time": "19:00",
+   "kind": "pin",
+   "file": "pins/p14-peek.png",
+   "title": "Hypokalemia vs Hyperkalemia & Sodium Imbalances: Nursing Cheat Sheet",
+   "content": "Potassium and sodium imbalances for the NCLEX: hypokalemia flat T waves and U waves, hyperkalemia peaked T waves, never IV push potassium, SIADH hyponatremia, diabetes insipidus hypernatremia. #nclex #nursingschool #nursingstudent #nclexprep #electrolytes #nursingtips",
+   "image_url": "https://emmapc9.github.io/cue-and-care-media/pins/p14-peek.png",
+   "destination_link": "https://www.etsy.com/shop/CueandCare"
+  },
+  {
+   "date": "2026-12-14",
+   "time": "12:00",
+   "kind": "reel",
+   "file": "reels/r16-flip.mp4",
+   "content": "Hypo = cells swell. Hyper = cells shrink. And normal saline is the only fluid that goes with blood products.\n\nFull NCLEX Essentials study bundle, RN-reviewed: link in bio.\n\n#nclex #nursingschool #nursingstudent #nclexprep #futurenurse #ivfluids #nursingtips",
+   "video_url": "https://emmapc9.github.io/cue-and-care-media/reels/r16-flip.mp4"
+  },
+  {
+   "date": "2026-12-15",
+   "time": "19:00",
+   "kind": "pin",
+   "file": "pins/p15-peek.png",
+   "title": "Calcium & Magnesium Imbalances: Chvostek, Trousseau, Mag Toxicity",
+   "content": "Hypocalcemia (Chvostek and Trousseau signs, after thyroidectomy), hypercalcemia (stones, bones, groans), hypomagnesemia and hypermagnesemia with calcium gluconate as the antidote. Nursing cheat sheet. #nclex #nursingschool #nursingstudent #nclexprep #electrolytes #nursingmnemonics",
+   "image_url": "https://emmapc9.github.io/cue-and-care-media/pins/p15-peek.png",
+   "destination_link": "https://www.etsy.com/shop/CueandCare"
+  },
+  {
+   "date": "2026-12-16",
+   "time": "19:00",
+   "kind": "pin",
+   "file": "pins/p16-peek.png",
+   "title": "IV Fluids Cheat Sheet: Isotonic, Hypotonic, Hypertonic for Nursing",
+   "content": "IV fluid types for nursing school: 0.9% NS, lactated Ringer's, D5W, 0.45% NaCl, 3% saline. Fluid volume deficit vs excess, IV complications and blood transfusion essentials. #nclex #nursingschool #nursingstudent #nclexprep #ivfluids #nursingtips",
+   "image_url": "https://emmapc9.github.io/cue-and-care-media/pins/p16-peek.png",
+   "destination_link": "https://www.etsy.com/shop/CueandCare"
+  },
+  {
+   "date": "2026-12-16",
+   "time": "12:00",
+   "kind": "reel",
+   "file": "reels/r17-flip.mp4",
+   "content": "Never seen the drug before? Read the ending. -olol = beta blocker, -pril = ACE inhibitor, -sartan = ARB, -statin = cholesterol. Save this for pharm.\n\nFull NCLEX Essentials study bundle, RN-reviewed: link in bio.\n\n#nclex #nursingschool #nursingstudent #nclexprep #futurenurse #pharmacology #nursingcheatsheet",
+   "video_url": "https://emmapc9.github.io/cue-and-care-media/reels/r17-flip.mp4"
+  },
+  {
+   "date": "2026-12-17",
+   "time": "19:00",
+   "kind": "pin",
+   "file": "pins/p17-peek.png",
+   "title": "Pharmacology Drug Suffixes Cheat Sheet: -olol, -pril, -sartan & More",
+   "content": "Drug suffix decoder for nursing pharmacology: -olol beta blockers, -pril ACE inhibitors, -sartan ARBs, -statin, -prazole, -parin and more, with the key nursing check for each class. #nclex #nursingschool #nursingstudent #nclexprep #pharmacology #nursingcheatsheet",
+   "image_url": "https://emmapc9.github.io/cue-and-care-media/pins/p17-peek.png",
+   "destination_link": "https://www.etsy.com/shop/CueandCare"
+  },
+  {
+   "date": "2026-12-18",
+   "time": "19:00",
+   "kind": "pin",
+   "file": "pins/p18-peek.png",
+   "title": "Cardiac Meds for Nursing: Digoxin, Beta Blockers, ACE, Nitro",
+   "content": "Cardiac medications nursing cheat sheet: digoxin apical pulse for 1 full minute, beta blockers mask hypoglycemia, ACE inhibitor cough and angioedema, nitroglycerin rules, loop vs thiazide vs potassium-sparing diuretics. #nclex #nursingschool #nursingstudent #nclexprep #pharmacology #cardiacnursing",
+   "image_url": "https://emmapc9.github.io/cue-and-care-media/pins/p18-peek.png",
+   "destination_link": "https://www.etsy.com/shop/CueandCare"
+  },
+  {
+   "date": "2026-12-18",
+   "time": "12:00",
+   "kind": "reel",
+   "file": "reels/r18-flip.mp4",
+   "content": "Before digoxin: apical pulse for a full minute, hold if under 60. Toxicity looks like nausea, vomiting and yellow-green halos.\n\nFull NCLEX Essentials study bundle, RN-reviewed: link in bio.\n\n#nclex #nursingschool #nursingstudent #nclexprep #futurenurse #pharmacology #cardiacnursing",
+   "video_url": "https://emmapc9.github.io/cue-and-care-media/reels/r18-flip.mp4"
+  },
+  {
+   "date": "2026-12-19",
+   "time": "19:00",
+   "kind": "pin",
+   "file": "pins/p19-peek.png",
+   "title": "Antidotes Cheat Sheet for Nursing: Naloxone, Protamine, Vitamin K",
+   "content": "Nursing antidote list: opioids–naloxone, benzodiazepines–flumazenil, acetaminophen–acetylcysteine, heparin–protamine, warfarin–vitamin K, magnesium–calcium gluconate, digoxin–digoxin immune fab. #nclex #nursingschool #nursingstudent #nclexprep #pharmacology #nursingcheatsheet",
+   "image_url": "https://emmapc9.github.io/cue-and-care-media/pins/p19-peek.png",
+   "destination_link": "https://www.etsy.com/shop/CueandCare"
+  },
+  {
+   "date": "2026-12-20",
+   "time": "19:00",
+   "kind": "pin",
+   "file": "pins/p21-peek.png",
+   "title": "High-Alert & Psych Meds for Nursing: Opioids, Lithium, SSRIs, MAOIs",
+   "content": "Nursing pharmacology cheat sheet: opioid respiratory depression, antipsychotic EPS and NMS, SSRI and serotonin syndrome, MAOI tyramine foods, lithium toxicity, vancomycin and TB drugs. #nclex #nursingschool #nursingstudent #nclexprep #pharmacology #mentalhealthnursing",
+   "image_url": "https://emmapc9.github.io/cue-and-care-media/pins/p21-peek.png",
+   "destination_link": "https://www.etsy.com/shop/CueandCare"
+  },
+  {
+   "date": "2026-12-21",
+   "time": "19:00",
+   "kind": "pin",
+   "file": "pins/p22-peek.png",
+   "title": "Left vs Right Heart Failure + Heart Rhythms for Nursing",
+   "content": "Left vs right sided heart failure made simple, MI signs (atypical in women), and must-know rhythms: atrial fibrillation, SVT, VT, VF and asystole with the priority action for each. #nclex #nursingschool #nursingstudent #nclexprep #cardiacnursing #nursingmnemonics",
+   "image_url": "https://emmapc9.github.io/cue-and-care-media/pins/p22-peek.png",
+   "destination_link": "https://www.etsy.com/shop/CueandCare"
+  },
+  {
+   "date": "2026-12-21",
+   "time": "12:00",
+   "kind": "reel",
+   "file": "reels/r19-flip.mp4",
+   "content": "The antidote list: opioids → naloxone, benzos → flumazenil, acetaminophen → acetylcysteine, heparin → protamine, warfarin → vitamin K. Naloxone can wear off before the opioid does, so keep watching breathing.\n\nFull NCLEX Essentials study bundle, RN-reviewed: link in bio.\n\n#nclex #nursingschool #nursingstudent #nclexprep #futurenurse #pharmacology #nursingcheatsheet",
+   "video_url": "https://emmapc9.github.io/cue-and-care-media/reels/r19-flip.mp4"
+  },
+  {
+   "date": "2026-12-22",
+   "time": "19:00",
+   "kind": "pin",
+   "file": "pins/p23-peek.png",
+   "title": "Respiratory Nursing Cheat Sheet: COPD, Asthma, Chest Tubes",
+   "content": "Respiratory nursing review: asthma vs COPD, COPD SpO2 target 88–92%, early vs late hypoxia signs, chest tube care and troubleshooting, ventilator alarms and suctioning rules. #nclex #nursingschool #nursingstudent #nclexprep #respiratory #nursingtips",
+   "image_url": "https://emmapc9.github.io/cue-and-care-media/pins/p23-peek.png",
+   "destination_link": "https://www.etsy.com/shop/CueandCare"
+  },
+  {
+   "date": "2026-12-23",
+   "time": "19:00",
+   "kind": "pin",
+   "file": "pins/p24-peek.png",
+   "title": "DKA vs HHS, Thyroid, Addison's vs Cushing's: Endocrine Cheat Sheet",
+   "content": "Endocrine nursing cheat sheet: DKA vs HHS comparison, DKA treatment order (fluids, check potassium, insulin), hypo vs hyperthyroid, Addison's vs Cushing's, SIADH vs diabetes insipidus. #nclex #nursingschool #nursingstudent #nclexprep #endocrine #nursingmnemonics",
+   "image_url": "https://emmapc9.github.io/cue-and-care-media/pins/p24-peek.png",
+   "destination_link": "https://www.etsy.com/shop/CueandCare"
+  },
+  {
+   "date": "2026-12-23",
+   "time": "12:00",
+   "kind": "reel",
+   "file": "reels/r20-flip.mp4",
+   "content": "Mixing insulin? Clear before cloudy: draw up regular, then NPH. And hypoglycemia is \"cold and clammy, need some candy.\"\n\nFull NCLEX Essentials study bundle, RN-reviewed: link in bio.\n\n#nclex #nursingschool #nursingstudent #nclexprep #futurenurse #insulin #diabetes",
+   "video_url": "https://emmapc9.github.io/cue-and-care-media/reels/r20-flip.mp4"
+  },
+  {
+   "date": "2026-12-24",
+   "time": "19:00",
+   "kind": "pin",
+   "file": "pins/p25-peek.png",
+   "title": "Neuro Nursing Cheat Sheet: ICP, GCS, Stroke BE FAST, Seizures",
+   "content": "Neuro nursing review for the NCLEX: early vs late signs of increased ICP (Cushing's triad), Glasgow Coma Scale (8 = intubate), stroke BE FAST, seizure care and autonomic dysreflexia. #nclex #nursingschool #nursingstudent #nclexprep #neuronursing #nursingtips",
+   "image_url": "https://emmapc9.github.io/cue-and-care-media/pins/p25-peek.png",
+   "destination_link": "https://www.etsy.com/shop/CueandCare"
+  },
+  {
+   "date": "2026-12-25",
+   "time": "19:00",
+   "kind": "pin",
+   "file": "pins/p26-peek.png",
+   "title": "Renal & GI Nursing Cheat Sheet: Dialysis, AV Fistula, GI Bleed",
+   "content": "Renal and GI nursing review: AV fistula care (thrill and bruit, no BP in that arm), peritoneal dialysis cloudy effluent, CKD diet, appendicitis, pancreatitis, cirrhosis and GI bleeding. #nclex #nursingschool #nursingstudent #nclexprep #renal #nursingtips",
+   "image_url": "https://emmapc9.github.io/cue-and-care-media/pins/p26-peek.png",
+   "destination_link": "https://www.etsy.com/shop/CueandCare"
+  },
+  {
+   "date": "2026-12-25",
+   "time": "12:00",
+   "kind": "reel",
+   "file": "reels/r21-flip.mp4",
+   "content": "MAOIs + aged cheese = hypertensive crisis. Antipsychotic + high fever and rigidity = neuroleptic malignant syndrome. Save these psych pharm red flags.\n\nFull NCLEX Essentials study bundle, RN-reviewed: link in bio.\n\n#nclex #nursingschool #nursingstudent #nclexprep #futurenurse #pharmacology #mentalhealthnursing",
+   "video_url": "https://emmapc9.github.io/cue-and-care-media/reels/r21-flip.mp4"
+  },
+  {
+   "date": "2026-12-26",
+   "time": "19:00",
+   "kind": "pin",
+   "file": "pins/p27-peek.png",
+   "title": "Shock Types, Sepsis & Burns (Rule of Nines, Parkland) for Nursing",
+   "content": "Shock types comparison, sepsis bundle basics, rule of nines and the Parkland formula with a worked example, compartment syndrome and fat embolism. Emergency nursing cheat sheet. #nclex #nursingschool #nursingstudent #nclexprep #emergencynursing #nursingmath",
+   "image_url": "https://emmapc9.github.io/cue-and-care-media/pins/p27-peek.png",
+   "destination_link": "https://www.etsy.com/shop/CueandCare"
+  },
+  {
+   "date": "2026-12-27",
+   "time": "19:00",
+   "kind": "pin",
+   "file": "pins/p28-peek.png",
+   "title": "VEAL CHOP Fetal Heart Rate Decelerations + Stages of Labor",
+   "content": "Maternity nursing cheat sheet: VEAL CHOP for fetal heart rate patterns, interventions for late decelerations, Naegele's rule, GTPAL, stages of labor and normal FHR 110–160. #nclex #nursingschool #nursingstudent #nclexprep #maternitynursing #obnursing",
+   "image_url": "https://emmapc9.github.io/cue-and-care-media/pins/p28-peek.png",
+   "destination_link": "https://www.etsy.com/shop/CueandCare"
+  },
+  {
+   "date": "2026-12-28",
+   "time": "19:00",
+   "kind": "pin",
+   "file": "pins/p29-peek.png",
+   "title": "Postpartum Nursing Cheat Sheet: Hemorrhage, Mag Toxicity, Apgar",
+   "content": "Postpartum and OB complications: preeclampsia severe features, magnesium sulfate toxicity and antidote, previa vs abruption, postpartum hemorrhage (fundal massage first), lochia stages and Apgar scoring. #nclex #nursingschool #nursingstudent #nclexprep #maternitynursing #postpartum",
+   "image_url": "https://emmapc9.github.io/cue-and-care-media/pins/p29-peek.png",
+   "destination_link": "https://www.etsy.com/shop/CueandCare"
+  },
+  {
+   "date": "2026-12-28",
+   "time": "12:00",
+   "kind": "reel",
+   "file": "reels/r23-flip.mp4",
+   "content": "Restlessness and anxiety are EARLY signs of hypoxia. Cyanosis is late. Don't wait for blue.\n\nFull NCLEX Essentials study bundle, RN-reviewed: link in bio.\n\n#nclex #nursingschool #nursingstudent #nclexprep #futurenurse #respiratory #nursingtips",
+   "video_url": "https://emmapc9.github.io/cue-and-care-media/reels/r23-flip.mp4"
+  },
+  {
+   "date": "2026-12-29",
+   "time": "19:00",
+   "kind": "pin",
+   "file": "pins/p30-peek.png",
+   "title": "Pediatric Nursing Cheat Sheet: Vital Signs, Milestones, Erikson",
+   "content": "Pediatric nursing review: vital signs by age, growth and motor milestones, Erikson stages and types of play, epiglottitis, croup, cystic fibrosis and Kawasaki disease. #nclex #nursingschool #nursingstudent #nclexprep #pediatricnursing #pedsnursing",
+   "image_url": "https://emmapc9.github.io/cue-and-care-media/pins/p30-peek.png",
+   "destination_link": "https://www.etsy.com/shop/CueandCare"
+  },
+  {
+   "date": "2026-12-30",
+   "time": "19:00",
+   "kind": "pin",
+   "file": "pins/p31-peek.png",
+   "title": "Mental Health Nursing Cheat Sheet: Withdrawal, Suicide Risk, Defenses",
+   "content": "Psych nursing review: suicide risk assessment, alcohol withdrawal timeline (seizures 12–48 hr, DTs 48–72 hr), thiamine before glucose, defense mechanisms, anxiety levels and de-escalation. #nclex #nursingschool #nursingstudent #nclexprep #psychnursing #mentalhealthnursing",
+   "image_url": "https://emmapc9.github.io/cue-and-care-media/pins/p31-peek.png",
+   "destination_link": "https://www.etsy.com/shop/CueandCare"
+  },
+  {
+   "date": "2026-12-30",
+   "time": "12:00",
+   "kind": "reel",
+   "file": "reels/r24-flip.mp4",
+   "content": "SIADH = Soaked Inside: retains water, low sodium. DI = Dry Inside: pees it all out, high sodium.\n\nFull NCLEX Essentials study bundle, RN-reviewed: link in bio.\n\n#nclex #nursingschool #nursingstudent #nclexprep #futurenurse #endocrine #nursingmnemonics",
+   "video_url": "https://emmapc9.github.io/cue-and-care-media/reels/r24-flip.mp4"
+  },
+  {
+   "date": "2026-12-31",
+   "time": "19:00",
+   "kind": "pin",
+   "file": "pins/p32-peek.png",
+   "title": "Nursing Dosage Calculations Cheat Sheet: Formulas + Worked Examples",
+   "content": "Dosage calculation formulas for nursing school: desired over have times volume, IV rate mL/hr, drip rate gtt/min, weight-based dosing and conversions, with 6 worked examples. #nclex #nursingschool #nursingstudent #nclexprep #dosagecalculations #nursingmath",
+   "image_url": "https://emmapc9.github.io/cue-and-care-media/pins/p32-peek.png",
+   "destination_link": "https://www.etsy.com/shop/CueandCare"
+  },
+  {
+   "date": "2027-01-01",
+   "time": "19:00",
+   "kind": "pin",
+   "file": "pins/p03-facts.png",
+   "title": "NCLEX 2026 Explained: Questions, Time Limit, Test Plan %",
+   "content": "NCLEX-RN at a glance for 2026: 85 to 150 questions, 5 hours, 3 case studies, computer adaptive. Plus the 8 client needs categories and their percentages. Save this NCLEX study guide cheat sheet for nursing school. #nclex #nursingschool #nursingstudent #nclexprep #nclexrn #nclex2026",
+   "image_url": "https://emmapc9.github.io/cue-and-care-media/pins/p03-facts.png",
+   "destination_link": "https://www.etsy.com/shop/CueandCare"
+  },
+  {
+   "date": "2027-01-01",
+   "time": "12:00",
+   "kind": "reel",
+   "file": "reels/r25-flip.mp4",
+   "content": "The earliest sign of increased intracranial pressure is a change in level of consciousness. Cushing's triad is LATE. And GCS 8 or less: intubate.\n\nFull NCLEX Essentials study bundle, RN-reviewed: link in bio.\n\n#nclex #nursingschool #nursingstudent #nclexprep #futurenurse #neuronursing #nursingtips",
+   "video_url": "https://emmapc9.github.io/cue-and-care-media/reels/r25-flip.mp4"
+  },
+  {
+   "date": "2027-01-02",
+   "time": "19:00",
+   "kind": "pin",
+   "file": "pins/p04-facts.png",
+   "title": "NCLEX Clinical Judgment Model: The 6 Steps Explained",
+   "content": "The 6 steps of the clinical judgment model behind every NCLEX case study: recognize cues, analyze cues, prioritize hypotheses, generate solutions, take action, evaluate outcomes. Nursing school study guide and NGN case study tips. #nclex #nursingschool #nursingstudent #nclexprep #ngn #clinicaljudgment",
+   "image_url": "https://emmapc9.github.io/cue-and-care-media/pins/p04-facts.png",
+   "destination_link": "https://www.etsy.com/shop/CueandCare"
+  },
+  {
+   "date": "2027-01-03",
+   "time": "19:00",
+   "kind": "pin",
+   "file": "pins/p05-facts.png",
+   "title": "NCLEX Prioritization Cheat Sheet: Who Do You See First?",
+   "content": "NCLEX prioritization rules: airway, breathing, circulation, disability, safety. Acute over chronic, unstable over stable, actual over potential. Nursing student cheat sheet with practice questions. #nclex #nursingschool #nursingstudent #nclexprep #prioritization #nursingtips",
+   "image_url": "https://emmapc9.github.io/cue-and-care-media/pins/p05-facts.png",
+   "destination_link": "https://www.etsy.com/shop/CueandCare"
+  },
+  {
+   "date": "2027-01-04",
+   "time": "19:00",
+   "kind": "pin",
+   "file": "pins/p06-facts.png",
+   "title": "Nursing Delegation Made Easy: RN vs LPN vs UAP (EAT Rule)",
+   "content": "NCLEX delegation rules: the RN keeps Evaluate, Assess, Teach (EAT). What LPNs and UAPs can and can't do, plus the 5 rights of delegation. Nursing school cheat sheet. #nclex #nursingschool #nursingstudent #nclexprep #delegation #nursingtips",
+   "image_url": "https://emmapc9.github.io/cue-and-care-media/pins/p06-facts.png",
+   "destination_link": "https://www.etsy.com/shop/CueandCare"
+  },
+  {
+   "date": "2027-01-04",
+   "time": "12:00",
+   "kind": "reel",
+   "file": "reels/r26-flip.mp4",
+   "content": "Dialysis fistula: feel the thrill, hear the bruit, and never take a BP in that arm.\n\nFull NCLEX Essentials study bundle, RN-reviewed: link in bio.\n\n#nclex #nursingschool #nursingstudent #nclexprep #futurenurse #renal #nursingtips",
+   "video_url": "https://emmapc9.github.io/cue-and-care-media/reels/r26-flip.mp4"
+  },
+  {
+   "date": "2027-01-05",
+   "time": "19:00",
+   "kind": "pin",
+   "file": "pins/p08-facts.png",
+   "title": "Restraints, Fall Prevention & Fire Safety (RACE, PASS) for NCLEX",
+   "content": "Nursing safety cheat sheet: restraint rules (never PRN, tie to bed frame, quick-release knot, two fingers), fall prevention, RACE and PASS fire safety, disaster triage colors and client positioning. #nclex #nursingschool #nursingstudent #nclexprep #patientsafety #nursingtips",
+   "image_url": "https://emmapc9.github.io/cue-and-care-media/pins/p08-facts.png",
+   "destination_link": "https://www.etsy.com/shop/CueandCare"
+  },
+  {
+   "date": "2027-01-06",
+   "time": "19:00",
+   "kind": "pin",
+   "file": "pins/p09-facts.png",
+   "title": "Therapeutic Communication NCLEX Cheat Sheet: Do's and Don'ts",
+   "content": "Therapeutic vs non-therapeutic communication for the NCLEX with examples: reflecting, open-ended questions, silence, presenting reality vs false reassurance, asking why, giving advice. #nclex #nursingschool #nursingstudent #nclexprep #therapeuticcommunication #mentalhealthnursing",
+   "image_url": "https://emmapc9.github.io/cue-and-care-media/pins/p09-facts.png",
+   "destination_link": "https://www.etsy.com/shop/CueandCare"
+  },
+  {
+   "date": "2027-01-06",
+   "time": "12:00",
+   "kind": "reel",
+   "file": "reels/r27-flip.mp4",
+   "content": "Parkland: 4 mL × kg × %TBSA of LR over 24 hours. Half in the first 8 hours from the time of the burn, not from arrival.\n\nFull NCLEX Essentials study bundle, RN-reviewed: link in bio.\n\n#nclex #nursingschool #nursingstudent #nclexprep #futurenurse #emergencynursing #nursingmath",
+   "video_url": "https://emmapc9.github.io/cue-and-care-media/reels/r27-flip.mp4"
+  },
+  {
+   "date": "2027-01-07",
+   "time": "19:00",
+   "kind": "pin",
+   "file": "pins/p10-facts.png",
+   "title": "CBC & Coag Lab Values for Nursing: Heparin aPTT vs Warfarin INR",
+   "content": "Nursing lab values cheat sheet: WBC, hemoglobin, hematocrit, platelets, PT/INR and aPTT. Heparin = aPTT = protamine. Warfarin = PT/INR = vitamin K. Platelet danger zones and neutropenic precautions. #nclex #nursingschool #nursingstudent #nclexprep #labvalues #pharmacology",
+   "image_url": "https://emmapc9.github.io/cue-and-care-media/pins/p10-facts.png",
+   "destination_link": "https://www.etsy.com/shop/CueandCare"
+  },
+  {
+   "date": "2027-01-08",
+   "time": "19:00",
+   "kind": "pin",
+   "file": "pins/p12-facts.png",
+   "title": "Therapeutic Drug Levels for Nursing: Digoxin, Lithium, Phenytoin",
+   "content": "Therapeutic drug level ranges and toxicity signs for nursing: digoxin 0.5–2.0, lithium 0.6–1.2, phenytoin 10–20, vancomycin trough, gentamicin peak and trough. Common teaching ranges. #nclex #nursingschool #nursingstudent #nclexprep #pharmacology #labvalues",
+   "image_url": "https://emmapc9.github.io/cue-and-care-media/pins/p12-facts.png",
+   "destination_link": "https://www.etsy.com/shop/CueandCare"
+  },
+  {
+   "date": "2027-01-08",
+   "time": "12:00",
+   "kind": "reel",
+   "file": "reels/r28-flip.mp4",
+   "content": "VEAL CHOP: Variable = Cord, Early = Head, Accels = OK, Late = Placenta. Late decels? Stop oxytocin, left side, IV bolus, O₂ per protocol, notify.\n\nFull NCLEX Essentials study bundle, RN-reviewed: link in bio.\n\n#nclex #nursingschool #nursingstudent #nclexprep #futurenurse #maternitynursing #obnursing",
+   "video_url": "https://emmapc9.github.io/cue-and-care-media/reels/r28-flip.mp4"
+  },
+  {
+   "date": "2027-01-09",
+   "time": "19:00",
+   "kind": "pin",
+   "file": "pins/p13-facts.png",
+   "title": "How to Interpret ABGs in 3 Steps: ROME Method for Nursing",
+   "content": "Easy ABG interpretation for nursing students: normal values (pH 7.35–7.45, PaCO2 35–45, HCO3 22–26), the ROME mnemonic, compensation and 4 practice ABGs with answers. #nclex #nursingschool #nursingstudent #nclexprep #abg #nursingmnemonics",
+   "image_url": "https://emmapc9.github.io/cue-and-care-media/pins/p13-facts.png",
+   "destination_link": "https://www.etsy.com/shop/CueandCare"
+  },
+  {
+   "date": "2027-01-10",
+   "time": "19:00",
+   "kind": "pin",
+   "file": "pins/p14-facts.png",
+   "title": "Hypokalemia vs Hyperkalemia & Sodium Imbalances: Nursing Cheat Sheet",
+   "content": "Potassium and sodium imbalances for the NCLEX: hypokalemia flat T waves and U waves, hyperkalemia peaked T waves, never IV push potassium, SIADH hyponatremia, diabetes insipidus hypernatremia. #nclex #nursingschool #nursingstudent #nclexprep #electrolytes #nursingtips",
+   "image_url": "https://emmapc9.github.io/cue-and-care-media/pins/p14-facts.png",
+   "destination_link": "https://www.etsy.com/shop/CueandCare"
+  },
+  {
+   "date": "2027-01-11",
+   "time": "19:00",
+   "kind": "pin",
+   "file": "pins/p15-facts.png",
+   "title": "Calcium & Magnesium Imbalances: Chvostek, Trousseau, Mag Toxicity",
+   "content": "Hypocalcemia (Chvostek and Trousseau signs, after thyroidectomy), hypercalcemia (stones, bones, groans), hypomagnesemia and hypermagnesemia with calcium gluconate as the antidote. Nursing cheat sheet. #nclex #nursingschool #nursingstudent #nclexprep #electrolytes #nursingmnemonics",
+   "image_url": "https://emmapc9.github.io/cue-and-care-media/pins/p15-facts.png",
+   "destination_link": "https://www.etsy.com/shop/CueandCare"
+  },
+  {
+   "date": "2027-01-11",
+   "time": "12:00",
+   "kind": "reel",
+   "file": "reels/r29-flip.mp4",
+   "content": "Boggy uterus after birth? Fundal massage first. On magnesium sulfate: check reflexes, respirations and urine output every time.\n\nFull NCLEX Essentials study bundle, RN-reviewed: link in bio.\n\n#nclex #nursingschool #nursingstudent #nclexprep #futurenurse #maternitynursing #postpartum",
+   "video_url": "https://emmapc9.github.io/cue-and-care-media/reels/r29-flip.mp4"
+  },
+  {
+   "date": "2027-01-12",
+   "time": "19:00",
+   "kind": "pin",
+   "file": "pins/p16-facts.png",
+   "title": "IV Fluids Cheat Sheet: Isotonic, Hypotonic, Hypertonic for Nursing",
+   "content": "IV fluid types for nursing school: 0.9% NS, lactated Ringer's, D5W, 0.45% NaCl, 3% saline. Fluid volume deficit vs excess, IV complications and blood transfusion essentials. #nclex #nursingschool #nursingstudent #nclexprep #ivfluids #nursingtips",
+   "image_url": "https://emmapc9.github.io/cue-and-care-media/pins/p16-facts.png",
+   "destination_link": "https://www.etsy.com/shop/CueandCare"
+  },
+  {
+   "date": "2027-01-13",
+   "time": "19:00",
+   "kind": "pin",
+   "file": "pins/p17-facts.png",
+   "title": "Pharmacology Drug Suffixes Cheat Sheet: -olol, -pril, -sartan & More",
+   "content": "Drug suffix decoder for nursing pharmacology: -olol beta blockers, -pril ACE inhibitors, -sartan ARBs, -statin, -prazole, -parin and more, with the key nursing check for each class. #nclex #nursingschool #nursingstudent #nclexprep #pharmacology #nursingcheatsheet",
+   "image_url": "https://emmapc9.github.io/cue-and-care-media/pins/p17-facts.png",
+   "destination_link": "https://www.etsy.com/shop/CueandCare"
+  },
+  {
+   "date": "2027-01-13",
+   "time": "12:00",
+   "kind": "reel",
+   "file": "reels/r30-flip.mp4",
+   "content": "Birth weight doubles by about 5–6 months and triples by 12. And in kids, low blood pressure is a late sign of shock: tachycardia comes first.\n\nFull NCLEX Essentials study bundle, RN-reviewed: link in bio.\n\n#nclex #nursingschool #nursingstudent #nclexprep #futurenurse #pediatricnursing #pedsnursing",
+   "video_url": "https://emmapc9.github.io/cue-and-care-media/reels/r30-flip.mp4"
+  },
+  {
+   "date": "2027-01-14",
+   "time": "19:00",
+   "kind": "pin",
+   "file": "pins/p18-facts.png",
+   "title": "Cardiac Meds for Nursing: Digoxin, Beta Blockers, ACE, Nitro",
+   "content": "Cardiac medications nursing cheat sheet: digoxin apical pulse for 1 full minute, beta blockers mask hypoglycemia, ACE inhibitor cough and angioedema, nitroglycerin rules, loop vs thiazide vs potassium-sparing diuretics. #nclex #nursingschool #nursingstudent #nclexprep #pharmacology #cardiacnursing",
+   "image_url": "https://emmapc9.github.io/cue-and-care-media/pins/p18-facts.png",
+   "destination_link": "https://www.etsy.com/shop/CueandCare"
+  },
+  {
+   "date": "2027-01-15",
+   "time": "19:00",
+   "kind": "pin",
+   "file": "pins/p20-facts.png",
+   "title": "Insulin Chart for Nursing: Onset, Peak, Duration + Clear Before Cloudy",
+   "content": "Insulin types for nursing school: rapid, short (regular), intermediate (NPH), long-acting. Onset, peak and duration, mixing clear before cloudy, the rule of 15 for hypoglycemia, and non-insulin diabetes meds. #nclex #nursingschool #nursingstudent #nclexprep #insulin #diabetes",
+   "image_url": "https://emmapc9.github.io/cue-and-care-media/pins/p20-facts.png",
+   "destination_link": "https://www.etsy.com/shop/CueandCare"
+  },
+  {
+   "date": "2027-01-15",
+   "time": "12:00",
+   "kind": "reel",
+   "file": "reels/r31-flip.mp4",
+   "content": "Alcohol withdrawal: tremors at 6–24 hours, seizures at 12–48, delirium tremens at 48–72+. And give thiamine before glucose.\n\nFull NCLEX Essentials study bundle, RN-reviewed: link in bio.\n\n#nclex #nursingschool #nursingstudent #nclexprep #futurenurse #psychnursing #mentalhealthnursing",
+   "video_url": "https://emmapc9.github.io/cue-and-care-media/reels/r31-flip.mp4"
+  },
+  {
+   "date": "2027-01-16",
+   "time": "19:00",
+   "kind": "pin",
+   "file": "pins/p21-facts.png",
+   "title": "High-Alert & Psych Meds for Nursing: Opioids, Lithium, SSRIs, MAOIs",
+   "content": "Nursing pharmacology cheat sheet: opioid respiratory depression, antipsychotic EPS and NMS, SSRI and serotonin syndrome, MAOI tyramine foods, lithium toxicity, vancomycin and TB drugs. #nclex #nursingschool #nursingstudent #nclexprep #pharmacology #mentalhealthnursing",
+   "image_url": "https://emmapc9.github.io/cue-and-care-media/pins/p21-facts.png",
+   "destination_link": "https://www.etsy.com/shop/CueandCare"
+  },
+  {
+   "date": "2027-01-17",
+   "time": "19:00",
+   "kind": "pin",
+   "file": "pins/p22-facts.png",
+   "title": "Left vs Right Heart Failure + Heart Rhythms for Nursing",
+   "content": "Left vs right sided heart failure made simple, MI signs (atypical in women), and must-know rhythms: atrial fibrillation, SVT, VT, VF and asystole with the priority action for each. #nclex #nursingschool #nursingstudent #nclexprep #cardiacnursing #nursingmnemonics",
+   "image_url": "https://emmapc9.github.io/cue-and-care-media/pins/p22-facts.png",
+   "destination_link": "https://www.etsy.com/shop/CueandCare"
+  }
+ ]
+}
