@@ -1,0 +1,342 @@
+{
+ "f01": {
+  "format": "first",
+  "topic": "hypoglycemia",
+  "file": "reels-v2/f01.mp4"
+ },
+ "f02": {
+  "format": "first",
+  "topic": "post-MI chest pain",
+  "file": "reels-v2/f02.mp4"
+ },
+ "f03": {
+  "format": "first",
+  "topic": "airway after thyroidectomy",
+  "file": "reels-v2/f03.mp4"
+ },
+ "f04": {
+  "format": "first",
+  "topic": "neurovascular check",
+  "file": "reels-v2/f04.mp4"
+ },
+ "f05": {
+  "format": "first",
+  "topic": "transfusion reaction",
+  "file": "reels-v2/f05.mp4"
+ },
+ "f06": {
+  "format": "first",
+  "topic": "digoxin toxicity",
+  "file": "reels-v2/f06.mp4"
+ },
+ "f07": {
+  "format": "first",
+  "topic": "pediatric airway",
+  "file": "reels-v2/f07.mp4"
+ },
+ "f08": {
+  "format": "first",
+  "topic": "severe preeclampsia",
+  "file": "reels-v2/f08.mp4"
+ },
+ "f09": {
+  "format": "first",
+  "topic": "pulmonary embolism",
+  "file": "reels-v2/f09.mp4"
+ },
+ "f10": {
+  "format": "first",
+  "topic": "inhalation burn",
+  "file": "reels-v2/f10.mp4"
+ },
+ "f11": {
+  "format": "first",
+  "topic": "falling GCS",
+  "file": "reels-v2/f11.mp4"
+ },
+ "f12": {
+  "format": "first",
+  "topic": "DKA potassium",
+  "file": "reels-v2/f12.mp4"
+ },
+ "f13": {
+  "format": "first",
+  "topic": "evisceration",
+  "file": "reels-v2/f13.mp4"
+ },
+ "f14": {
+  "format": "first",
+  "topic": "psych safety",
+  "file": "reels-v2/f14.mp4"
+ },
+ "f15": {
+  "format": "first",
+  "topic": "magnesium toxicity",
+  "file": "reels-v2/f15.mp4"
+ },
+ "f16": {
+  "format": "first",
+  "topic": "anaphylaxis",
+  "file": "reels-v2/f16.mp4"
+ },
+ "f17": {
+  "format": "first",
+  "topic": "post-cath bleeding",
+  "file": "reels-v2/f17.mp4"
+ },
+ "q01": {
+  "format": "quiz",
+  "topic": "potassium range",
+  "file": "reels-v2/q01.mp4"
+ },
+ "q02": {
+  "format": "quiz",
+  "topic": "ABG",
+  "file": "reels-v2/q02.mp4"
+ },
+ "q03": {
+  "format": "quiz",
+  "topic": "heparin antidote",
+  "file": "reels-v2/q03.mp4"
+ },
+ "q04": {
+  "format": "quiz",
+  "topic": "warfarin antidote",
+  "file": "reels-v2/q04.mp4"
+ },
+ "q05": {
+  "format": "quiz",
+  "topic": "INR goal",
+  "file": "reels-v2/q05.mp4"
+ },
+ "q06": {
+  "format": "quiz",
+  "topic": "dosage calc",
+  "file": "reels-v2/q06.mp4"
+ },
+ "q07": {
+  "format": "quiz",
+  "topic": "IV rate",
+  "file": "reels-v2/q07.mp4"
+ },
+ "q08": {
+  "format": "quiz",
+  "topic": "heparin drip",
+  "file": "reels-v2/q08.mp4"
+ },
+ "q09": {
+  "format": "quiz",
+  "topic": "hyperkalemia ECG",
+  "file": "reels-v2/q09.mp4"
+ },
+ "q10": {
+  "format": "quiz",
+  "topic": "Chvostek's sign",
+  "file": "reels-v2/q10.mp4"
+ },
+ "q11": {
+  "format": "quiz",
+  "topic": "TB isolation",
+  "file": "reels-v2/q11.mp4"
+ },
+ "q12": {
+  "format": "quiz",
+  "topic": "C. diff",
+  "file": "reels-v2/q12.mp4"
+ },
+ "q13": {
+  "format": "quiz",
+  "topic": "insulin",
+  "file": "reels-v2/q13.mp4"
+ },
+ "q14": {
+  "format": "quiz",
+  "topic": "lithium",
+  "file": "reels-v2/q14.mp4"
+ },
+ "q15": {
+  "format": "quiz",
+  "topic": "digoxin",
+  "file": "reels-v2/q15.mp4"
+ },
+ "q16": {
+  "format": "quiz",
+  "topic": "left heart failure",
+  "file": "reels-v2/q16.mp4"
+ },
+ "q17": {
+  "format": "quiz",
+  "topic": "MAOI diet",
+  "file": "reels-v2/q17.mp4"
+ },
+ "m01": {
+  "format": "myth",
+  "topic": "NCLEX length",
+  "file": "reels-v2/m01.mp4"
+ },
+ "m02": {
+  "format": "myth",
+  "topic": "airborne precautions",
+  "file": "reels-v2/m02.mp4"
+ },
+ "m03": {
+  "format": "myth",
+  "topic": "IV potassium",
+  "file": "reels-v2/m03.mp4"
+ },
+ "m04": {
+  "format": "myth",
+  "topic": "crackles",
+  "file": "reels-v2/m04.mp4"
+ },
+ "m05": {
+  "format": "myth",
+  "topic": "pain",
+  "file": "reels-v2/m05.mp4"
+ },
+ "m06": {
+  "format": "myth",
+  "topic": "pressure injury",
+  "file": "reels-v2/m06.mp4"
+ },
+ "m07": {
+  "format": "myth",
+  "topic": "mixing insulin",
+  "file": "reels-v2/m07.mp4"
+ },
+ "m08": {
+  "format": "myth",
+  "topic": "restraints",
+  "file": "reels-v2/m08.mp4"
+ },
+ "m09": {
+  "format": "myth",
+  "topic": "leg elevation",
+  "file": "reels-v2/m09.mp4"
+ },
+ "m10": {
+  "format": "myth",
+  "topic": "delegation",
+  "file": "reels-v2/m10.mp4"
+ },
+ "m11": {
+  "format": "myth",
+  "topic": "COPD oxygen",
+  "file": "reels-v2/m11.mp4"
+ },
+ "m12": {
+  "format": "myth",
+  "topic": "nitroglycerin",
+  "file": "reels-v2/m12.mp4"
+ },
+ "m13": {
+  "format": "myth",
+  "topic": "stroke swallow",
+  "file": "reels-v2/m13.mp4"
+ },
+ "m14": {
+  "format": "myth",
+  "topic": "suctioning",
+  "file": "reels-v2/m14.mp4"
+ },
+ "m15": {
+  "format": "myth",
+  "topic": "calling the provider",
+  "file": "reels-v2/m15.mp4"
+ },
+ "m16": {
+  "format": "myth",
+  "topic": "sepsis in older adults",
+  "file": "reels-v2/m16.mp4"
+ },
+ "m17": {
+  "format": "myth",
+  "topic": "hypoglycemia",
+  "file": "reels-v2/m17.mp4"
+ },
+ "t01": {
+  "format": "trick",
+  "topic": "ABGs",
+  "file": "reels-v2/t01.mp4"
+ },
+ "t02": {
+  "format": "trick",
+  "topic": "low calcium",
+  "file": "reels-v2/t02.mp4"
+ },
+ "t03": {
+  "format": "trick",
+  "topic": "stroke",
+  "file": "reels-v2/t03.mp4"
+ },
+ "t04": {
+  "format": "trick",
+  "topic": "drug suffixes",
+  "file": "reels-v2/t04.mp4"
+ },
+ "t05": {
+  "format": "trick",
+  "topic": "magnesium",
+  "file": "reels-v2/t05.mp4"
+ },
+ "t06": {
+  "format": "trick",
+  "topic": "heart failure",
+  "file": "reels-v2/t06.mp4"
+ },
+ "t07": {
+  "format": "trick",
+  "topic": "mixing insulin",
+  "file": "reels-v2/t07.mp4"
+ },
+ "t08": {
+  "format": "trick",
+  "topic": "airborne",
+  "file": "reels-v2/t08.mp4"
+ },
+ "t09": {
+  "format": "trick",
+  "topic": "glucose",
+  "file": "reels-v2/t09.mp4"
+ },
+ "t10": {
+  "format": "trick",
+  "topic": "delegation",
+  "file": "reels-v2/t10.mp4"
+ },
+ "t11": {
+  "format": "trick",
+  "topic": "fetal monitoring",
+  "file": "reels-v2/t11.mp4"
+ },
+ "t12": {
+  "format": "trick",
+  "topic": "adrenal",
+  "file": "reels-v2/t12.mp4"
+ },
+ "t13": {
+  "format": "trick",
+  "topic": "thyroid",
+  "file": "reels-v2/t13.mp4"
+ },
+ "t14": {
+  "format": "trick",
+  "topic": "digoxin",
+  "file": "reels-v2/t14.mp4"
+ },
+ "t15": {
+  "format": "trick",
+  "topic": "compartment syndrome",
+  "file": "reels-v2/t15.mp4"
+ },
+ "t16": {
+  "format": "trick",
+  "topic": "prioritization",
+  "file": "reels-v2/t16.mp4"
+ },
+ "t17": {
+  "format": "trick",
+  "topic": "hyperkalemia",
+  "file": "reels-v2/t17.mp4"
+ }
+}
